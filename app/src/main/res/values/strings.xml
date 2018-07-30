@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Makedu Consult Ltd.</string>
+    <string name="page_title">Makedu Consult Ltd - ABOUT</string>
+    <string name="image_desc">Makedu Consult Website Banner</string>
+    <string name="company_name">Makedu Consult Limited</string>
+    <string name="company_address">Nii Afutu Tsuru St, East Legon, Accra, Ghana</string>
+    <string name="company_phone">+233 30 250 6143</string>
+    <string name="company_email">info@makeduconsult.com</string>
+    <string name="description">Description</string>
+    <string name="company_desc">Makedu Consult Limited has expertise in Information
+        Technology solutions. \n\nWe have built a reputation in software development covering a wide
+        range of programming languages and databases. Our end-products include desktop,
+        web-based and mobile applications for international development partners,
+        governmental agencies and the private sector.
+        \n\nAs an IT partner, Makedu’s strength lies in perceiving the client’s
+        business processes, culture, vision and goals across the industry segments.
+        We then formulate client oriented solutions, which are highly reliable.</string>
+    <string name="working_hours_desc">Working Hours</string>
+    <string name="closed">Closed</string>
+    <string name="sunday">Sunday:</string>
+    <string name="saturday">Saturday:</string>
+    <string name="company_time">8:00 am - 5:00 pm</string>
+    <string name="friday">Friday:</string>
+    <string name="thursday">Thursday:</string>
+    <string name="wednesday">Wednesday:</string>
+    <string name="tuesday">Tuesday:</string>
+    <string name="monday">Monday:</string>
+    <string name="company_website">www.makeduconsult.com</string>
+</resources>
